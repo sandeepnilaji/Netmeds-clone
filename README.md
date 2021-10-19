@@ -29,4 +29,7 @@ We don't own any of the content such as images or icons on this website, this wa
 ![Homepage](https://github.com/Prakharsvnit/Netmeds-clone/blob/master/Netmeds-clone-master/images/Screenshot%20from%202021-08-28%2012-37-19.png)
 ![cart page](https://github.com/Prakharsvnit/Netmeds-clone/blob/master/Netmeds-clone-master/images/Screenshot%20from%202021-08-28%2012-30-19.png)
 
-
+### Contributors
+* Kishan Kumar
+* Prakhar Tripathi
+* Anurag Pandey
